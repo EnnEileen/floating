@@ -1,1 +1,28 @@
-/* Pon tu código css aqui */
+
+.box1 {
+	background-color: yellow;
+	width: 400px;
+	height: 230px;
+
+}
+.box2
+{
+	background-color: #5DADE2;
+	width: 400px;
+	height: 230px;
+}
+.box3
+{
+	background-color: #E80D7B;
+	width: 400px;
+	height: 230px;
+}
+body{
+	margin: auto;
+	padding: 0;
+	background-color: #fff;
+}
+
+.box1, .box2 , .box3 {
+	float: left;
+}

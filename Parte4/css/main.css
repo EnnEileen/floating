@@ -1,1 +1,29 @@
-/* Pon tu código css aqui */
+
+.box1 {
+	background-color: yellow;
+	width: 300px;
+	height: 230px;
+
+}
+.box2
+{
+	background-color: #5DADE2;
+	width: 300px;
+	height: 230px;
+}
+.box3
+{
+	background-color: #E80D7B;
+	width: 300px;
+	height: 230px;
+}
+ 
+ .padre{
+	border: 1px solid black;
+	overflow: auto;
+
+}
+.box1, .box2 , .box3  {
+ 	float: left;
+ }
+
